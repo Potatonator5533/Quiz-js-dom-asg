@@ -1,0 +1,30 @@
+.boxSize{
+    height:350px;
+    width: 400px;
+    border-radius: 1px;
+    outline-style: ridge;
+}
+
+.redBox {
+    background-color: red;
+}
+
+.blueBox {
+    background-color: blue;
+}
+
+.purpleBox {
+    background-color: purple;
+}
+
+.brownBox {
+    background-color: brown;
+}
+
+.yellowBox {
+    background-color: yellow;
+}
+
+.noBox {
+    background-color: 0;
+}
